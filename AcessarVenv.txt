@@ -1,0 +1,7 @@
+para acessar o venv.
+
+CMD como ADM - >
+Acessar o caminho do diretório venv ->
+Acessar a pasta SCRIPTS ->
+Executar o arquivo ACTIVATE ->
+Retornar para a pasta do projeto 'cd ..' ->

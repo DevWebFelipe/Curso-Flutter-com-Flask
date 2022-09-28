@@ -1,0 +1,2 @@
+- Vai armazenar os atributos, métodos Getters e Setters dos módulos que vamos ter no projeto
+no caso, contas e transações

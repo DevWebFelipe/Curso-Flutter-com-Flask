@@ -1,0 +1,1 @@
+- Vai ser definido as rotas e onde vai ser implementado todos os recursos da API

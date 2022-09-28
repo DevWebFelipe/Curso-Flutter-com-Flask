@@ -1,0 +1,3 @@
+- Vai ter as validações de regras de negócio de cada um dos módulos da API
+- Também vai ser onde será armazenado as regras de conversões, de txt
+para json por exemplo

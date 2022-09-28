@@ -1,0 +1,7 @@
+- Armazenar os arquivos da API, a API será construída utilizando Flask, e depois será
+  consumida por uma aplicação construída com Flutter.
+- Ao criar um Python Package já cria altomaticamente um arquivo chamado
+__init__.py onde serão feitas as configurações da API
+- Vai armazenar todos os diretórios da API
+- A ideia da separação, é manter cada arquivo com uma responsabilidade (no delphi
+isso é chamado de princípio da responsabilidade única)

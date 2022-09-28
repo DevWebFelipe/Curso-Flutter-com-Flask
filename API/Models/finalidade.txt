@@ -1,0 +1,5 @@
+- Vai armazenar uma base central para trabalhar com todos os módulos do projeto
+- Vai ser onde será definido quais atributos cada um das tabelas vai ter, no caso,
+cada módulo, vai se transformar em uma tabela para o banco de dados.
+- Também será definido se um atributo é chave primária ou não
+- Tipo de dados de cada atributo

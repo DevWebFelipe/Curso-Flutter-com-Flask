@@ -1,0 +1,3 @@
+- Vai armazenar os arquivos que vão utilizar os métodos de ORM (Flask sqlalchemy)
+- Vai conter os arquivos que vão tratar a orientação a objeto POO com os bancos
+de dados relacionais
