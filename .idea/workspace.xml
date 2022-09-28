@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76decab5-b356-42a3-a157-144fa9dd7f60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/API/Entidades/finalidade.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/Models/finalidade.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/Schemas/finalidade.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/Services/finalidade.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/Views/finalidade.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/finalidade.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AcessarVenv.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Flutter com Flask - Desenvolvendo App Finanças.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Flutter com Flask - Desenvolvendo App Finanças.iml" afterDir="false" />
+    <list default="true" id="76decab5-b356-42a3-a157-144fa9dd7f60" name="Changes" comment="Arquivos de explicação sobre a estrutura do projeto">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/API/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +27,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Flutter com Flask - Desenvolvendo App Finanças" />
@@ -71,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664324537741</updated>
     </task>
+    <task id="LOCAL-00001" summary="Arquivos de explicação sobre a estrutura do projeto">
+      <created>1664325103461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664325103461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +89,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Arquivos de explicação sobre a estrutura do projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arquivos de explicação sobre a estrutura do projeto" />
   </component>
 </project>
